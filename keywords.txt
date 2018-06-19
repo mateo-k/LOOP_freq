@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map LowPower
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+loop_start	KEYWORD2
+loop_end	KEYWORD2
+get_cpu_usage	KEYWORD2
+get_loop_frequency	KEYWORD2
+set_loop_delay	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+LOOP_freq	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
